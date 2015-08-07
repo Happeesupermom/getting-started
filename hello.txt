@@ -1,1 +1,4 @@
-Howdy
+Howdy Im here at my desk >hello.txt
+git status
+
+echo Howdy Im here at my desk
